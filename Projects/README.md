@@ -28,5 +28,5 @@ The main focus of March Madness Analysis is
 
 The main focus of Parse SOAP is 
 
-*All of these projects were completed for UCB's Master of Data Science Course W207 - Applied Machine Learning. These were completed using Python Jupyter Notebooks.* 
+*All of these projects were completed from 2018-2019. These were completed using Python Jupyter Notebooks or RStudio.* 
 
