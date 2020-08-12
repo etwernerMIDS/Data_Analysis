@@ -10,7 +10,7 @@ The main focus of Alliance Analysis is to use data science and visualizations to
 
 * [Car Analysis](https://github.com/etwernerMIDS/Data_Analysis/tree/master/Projects/Car_Analysis)
 
-The main focus of Car Analysis is
+The main focus of Car Analysis is to answer various buisness questions in regards to reselling used cars, specifically Porches. The analysis includes general data exploration with tables and graphs, which allow for optimal buiness insights to be made. 
 
 * [KMeans Analysis](https://github.com/etwernerMIDS/Data_Analysis/tree/master/Projects/KMeans_Analysis)
 
