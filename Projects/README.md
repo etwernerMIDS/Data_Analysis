@@ -6,7 +6,7 @@
 
 * [Alliance Analysis](https://github.com/etwernerMIDS/Data_Analysis/tree/master/Projects/Alliance_Analysis)
 
-The main focus of Alliance Analysis is 
+The main focus of Alliance Analysis is to use data science and visualizations to better understand the development and organization of international alliances. Military alliances are strategic partnerships that ensure mutual protection and support in a time of conflict. Data analysis can help us better understand these relationships and even predict future beneficial ones.
 
 * [Car Analysis](https://github.com/etwernerMIDS/Data_Analysis/tree/master/Projects/Car_Analysis)
 
