@@ -34,27 +34,13 @@ from predictClusters import predictClusters
 
 #%% Visualizations of sensor plots and the feature vector.  
 print("Overall Feature Vector and Plots")
-
-record_id = 699353226
 motion_sensor_plot(record_id)
 motion_sensor_color_plot(record_id)
 plt.plot(feature_vector_centered(record_id,bins=100))
 plt.yticks([0,1])
 plt.tick_params(axis='both', which='major', labelsize=16)
     
-
-#%% Finds all the "good" ideas and write them to a file.
-dbc=Database()
-IDS = dbc.fetchIds('SELECT DISTINCT [CBPID] FROM [ERNIE_sample_Sept2011_to_Aug2012].[dbo].[ERNIE_SegmentInfo] ORDER BY CBPID asc')
-outF = open("goodIDs.txt", "w")
-for id in IDS:
-  record = dbc.getRecord(id)
-  if record.bad() == False:
-      outF.write(str(id))
-      outF.write("\n")
-outF.close()
-
-
+    
 #%% Creates test/training sset from unmanipulated/manipulated records.
 #SHOULD BE RUN ON SUPER COMPUTER - TAKES A VERY LONG TIME
 generateTestTrainingSets(n_fold=0)
