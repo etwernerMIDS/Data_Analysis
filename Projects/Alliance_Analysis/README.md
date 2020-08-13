@@ -14,7 +14,7 @@ These are resulting outputs from code written with intention of better understan
 
 This is a written report that details the motivation behind this project and repository. It includes an in-depth analysis of the military alliance structure as well as the visualizations that act as evidence to support this argument.
 
-* two example R code files
+* two example .R code files
 
 These files include functions that produced some of the visualizations included in this project and repository.
 
