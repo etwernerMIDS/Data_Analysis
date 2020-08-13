@@ -15,9 +15,6 @@ from extractTesting import extractTesting
 import matplotlib.pylab as plt
 import seaborn as sns; sns.set(style="ticks", color_codes=True)
 import random
-from gov.llnl.ernie import Database
-from gov.llnl.ernie import Analysis
-from gov.llnl.ernie.vps import MotionProfileV2 
 import seaborn as sns; sns.set(style="ticks", color_codes=True)
 
 # Confusion Matrix
