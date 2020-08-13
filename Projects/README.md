@@ -22,11 +22,11 @@ The main focus of MNIST Analysis is construct a convolution neural net that woul
 
 * [March Madness Analysis](https://github.com/etwernerMIDS/Data_Analysis/tree/master/Projects/March_Madness_Analysis)
 
-The main focus of March Madness Analysis is 
+The main focus of March Madness Analysis is to predict the outcome of matches within the tournament. Based on how teams are seeded and the seed difference for a given game, logistic regression can be applied in order to produce a probability distribution of the likely outcome.
 
 * [Parse SOAP](https://github.com/etwernerMIDS/Data_Analysis/tree/master/Projects/Parse_SOAP)
 
-The main focus of Parse SOAP is 
+The main focus of Parse SOAP is to interact with a Web Service through RStudio. These actions include authenticating a client, logging into the service, performing searches within the web service, retrieving the results of the search, and then parsing the xml output. 
 
 *All of these projects were completed from 2018-2019. These were completed using Python Jupyter Notebooks or RStudio.* 
 
