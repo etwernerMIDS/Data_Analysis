@@ -6,8 +6,16 @@ The countries within a given military alliance are not random or arbitrary, but 
 
 More specifically, in this repository you will find:
 
-* an [Overall Report](https://github.com/etwernerMIDS/Data_Analysis/blob/master/Projects/Alliance_Analysis/Math_111A_Final_Report_Erin_W.pdf)
-* two example R code files
 * a [Visualizations](https://github.com/etwernerMIDS/Data_Analysis/tree/master/Projects/Alliance_Analysis/Visualizations) folder
 
-* These projects were completed for the Center for Peace and Security Studies (CPASS) think tank and UCSD's Math 111A - Mathematical Modeling I. These were completed using RStudio and the Tidyverse ggplot2 visualization library. *
+These are example outputs from code, written in RStudio using ggplot2. Each visualization helps to more easily understand the complex relationship between states in relation to their status in an alliance. 
+
+* an [Overall Report](https://github.com/etwernerMIDS/Data_Analysis/blob/master/Projects/Alliance_Analysis/Math_111A_Final_Report_Erin_W.pdf)
+
+This is a written report that details the motivation behind this project and repository. It includes an in-depth analysis of the military alliance structure as well as the visualizations that act as evidence to support this argument.
+
+* two example R code files
+
+These files include functions, written in RStudio, that produced some of the visualizations included in this project and repository.
+
+*These projects were completed for the Center for Peace and Security Studies (CPASS) think tank and UCSD's Math 111A - Mathematical Modeling I. These were completed using RStudio and the Tidyverse ggplot2 visualization library.*
