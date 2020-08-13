@@ -18,4 +18,4 @@ This is a written report that details the motivation behind this project and rep
 
 These files include functions that produced some of the visualizations included in this project and repository.
 
-*These projects were completed for the Center for Peace and Security Studies (CPASS) think tank and UCSD's Math 111A - Mathematical Modeling I. These were completed using RStudio and the Tidyverse ggplot2 visualization library.*
+*These projects were completed for the Center for Peace and Security Studies (CPASS) and UCSD's Math 111A Course - Mathematical Modeling I. These were completed using RStudio and the Tidyverse ggplot2 visualization library.*
