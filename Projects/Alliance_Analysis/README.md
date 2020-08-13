@@ -8,7 +8,7 @@ More specifically, in this repository you will find:
 
 * a [Visualizations](https://github.com/etwernerMIDS/Data_Analysis/tree/master/Projects/Alliance_Analysis/Visualizations) folder
 
-These are example outputs from code, written in RStudio using ggplot2. Each visualization helps to more easily understand the complex relationship between states in relation to their status in an alliance. 
+These are resulting outputs from code written with intention of better understanding alliances through data analysis. Each visualization helps to more easily understand the complex relationship between states in relation to their status in an alliance. 
 
 * an [Overall Report](https://github.com/etwernerMIDS/Data_Analysis/blob/master/Projects/Alliance_Analysis/Math_111A_Final_Report_Erin_W.pdf)
 
@@ -16,6 +16,6 @@ This is a written report that details the motivation behind this project and rep
 
 * two example R code files
 
-These files include functions, written in RStudio, that produced some of the visualizations included in this project and repository.
+These files include functions that produced some of the visualizations included in this project and repository.
 
 *These projects were completed for the Center for Peace and Security Studies (CPASS) think tank and UCSD's Math 111A - Mathematical Modeling I. These were completed using RStudio and the Tidyverse ggplot2 visualization library.*
