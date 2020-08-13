@@ -14,11 +14,11 @@ The main focus of Car Analysis is to answer various buisness questions in regard
 
 * [KMeans Analysis](https://github.com/etwernerMIDS/Data_Analysis/tree/master/Projects/KMeans_Analysis)
 
-The main focus of K-Mean Analysis is 
+The main focus of K-Mean Analysis is to build an unsupervised vehicle-type classifier. This machine learning classifier would then help to improve nuclear material detection in vehcicle cargo as it is scanned at border stations. Overall, this was accomplished by transforming the data into feature vectors, optimizing the number of clusters to use for the K-Means algorithm, and then labeling each cluster with it's respective vehicle type.
 
 * [MNIST Analysis](https://github.com/etwernerMIDS/Data_Analysis/tree/master/Projects/MNIST_Analysis)
 
-The main focus of MNIST Analysis is 
+The main focus of MNIST Analysis is construct a convolution neural net that would accuractly determine the handwritten-digit input. A comparison of several different CNNs was done, each with a different number of levels. As a result, a 4-layer CNN using stochastic Gradient Descent proved to have the best performance with 96% accuracy.
 
 * [March Madness Analysis](https://github.com/etwernerMIDS/Data_Analysis/tree/master/Projects/March_Madness_Analysis)
 
