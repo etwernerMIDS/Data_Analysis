@@ -6,8 +6,6 @@ Created on Wed Jul 11 16:42:05 2018
 """
 #imports
 import numpy as np
-from gov.llnl.ernie import Analysis
-from gov.llnl.ernie.vps import MotionProfileV2 
 import seaborn as sns; sns.set(style="ticks", color_codes=True)
 
 #Get Individual Manipulated Feature Centered
