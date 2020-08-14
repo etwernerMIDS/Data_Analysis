@@ -2,6 +2,7 @@
 
 ## Erin Werner
 
+Web services can be regarded as functions of systems exposed over the Web using standardised message formats. They can be interfaced to other software platforms through "message-centric" usage of such services. This is accomplished by interacting through SOAP messages, as SOAP is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. The goal of this project was to use SOAP messages to interact with a web-service through R.
 
 More specifically, in this repository you will find:
 
