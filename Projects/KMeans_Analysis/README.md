@@ -2,7 +2,7 @@
 
 ## Erin Werner
 
-*Explanation
+Vehicle-specific models help to account for shielding of natural background radiation at nuclear material detection stations. Picking the right vehicle model, through methods like vehicle classification, help to better classify scans. Vehicle classification can be achieved through forming feature vectors, running cluster analysis, and then building a vehicle classifier. This classifier will consequently make detection sensors better at distinguishing the threating from non-threating material found in cargo. This will then reduce the number of false alarms and make the detection process more accurate and efficient.
 
 More specifically, in this repository you will find:
 
