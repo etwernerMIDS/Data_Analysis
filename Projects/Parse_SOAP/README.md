@@ -15,11 +15,11 @@ This function authenticates the client and returns a binary security token.
 
 * wsk_seacrh_retrieve()
 
-This function performs a search within the web-service and stores the documents that are returned the the search.
+This function performs a search within the web-service and stores the documents that are returned from the search.
 
 * wsk_parse_raw()
 
-This function parses the xml-formatted document and extracts the text.
+This function parses the returned xml-formatted documents and extracts the text.
 
 *This project was completed for the Center for Peace and Security Studies (CPASS). These were completed using RStudio and the respective web-service interaction libraries.*
 
